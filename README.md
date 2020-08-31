@@ -13,7 +13,7 @@ I used IntelliJ, Visual Studio Code, and Mysql Workbench environment. Also, I us
 
 ## Possible Improvements
 
-1) Users may have a profile page that holds the personal information of the user in it.
+1) Users may have a profile page that holds the personal information of the user.
 2) Forget Password? section can be added.
 3) The first time we run the app on the web browser, it works slow. After the first time, it gets speed up. That might be fixed.
 
