@@ -5,6 +5,8 @@
 
 This project is built by following the "Full Stack Project: Spring Boot 2.0, React.js, Redux" project of Udemy. This project provides a dashboard that can be used by any user to manage their projects. Users can register, log in to the system and add, update, delete projects in this dashboard. Each user has its own project board.
 
+![dashboard](https://user-images.githubusercontent.com/38913989/91739755-0a279780-ebbb-11ea-8e92-c86b509a6338.PNG)
+
 ## Assumptions
 
 I created the CRUD operation of Project, Project Task, Backlog, and User entities. 
