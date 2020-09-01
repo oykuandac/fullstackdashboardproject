@@ -35,6 +35,6 @@ You will also see any lint errors in the console.
 
 I run the application.java file in IntelliJ IDE to run the server.
 
-### ./mvnw
+### `./mvnw`
 
 With this command, the app can be run on Linux.
