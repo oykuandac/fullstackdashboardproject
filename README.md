@@ -13,6 +13,10 @@ I created the CRUD operation of Project, Project Task, Backlog, and User entitie
 I used the MySQL database to store these entities and their information.
 I used IntelliJ, Visual Studio Code, and Mysql Workbench environment. Also, I used Maven to import dependencies.
 
+## Security
+
+This system is a secure system. I provide security by using JWT Authentication. 
+
 ## Possible Improvements
 
 1) Users may have a profile page that holds the personal information of the user.
