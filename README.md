@@ -9,9 +9,9 @@ This project is built by following the "Full Stack Project: Spring Boot 2.0, Rea
 
 ## Assumptions
 
-I created the CRUD operation of Project, Project Task, Backlog, and User entities. 
-I used the MySQL database to store these entities and their information.
-I used IntelliJ, Visual Studio Code, and Mysql Workbench environment. Also, I used Maven to import dependencies.
+*I created the CRUD operation of Project, Project Task, Backlog, and User entities. 
+*I used the MySQL database to store these entities and their information.
+*I used IntelliJ, Visual Studio Code, and Mysql Workbench environment. Also, I used Maven to import dependencies.
 
 ## Security
 
